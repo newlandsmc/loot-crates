@@ -5,7 +5,7 @@
          "entries":[
             {
                "type":"item",
-               "material":"Anvil",
+               "material":"ANVIL",
                "weight":42,
                "amount":1
             },
@@ -17,7 +17,7 @@
             },
             {
                "type":"item",
-               "material":"deepslate_diamond_ore",
+               "material":"DEEPSLATE_DIAMOND_ORE",
                "weight":42,
                "amount":{
                   "min":1,
@@ -26,7 +26,7 @@
             },
             {
                "type":"item",
-               "material":"Deepslate_Emerald_Ore",
+               "material":"DEEPSLATE_EMERALD_ORE",
                "weight":42,
                "amount":{
                   "min":1,
@@ -35,16 +35,7 @@
             },
             {
                "type":"item",
-               "material":"Diamond_Ore",
-               "weight":42,
-               "amount":{
-                  "min":1,
-                  "max":5
-               }
-            },
-            {
-               "type":"item",
-               "material":"Dragon_Breath",
+               "material":"DRAGON_BREATH",
                "weight":42,
                "amount":{
                   "min":16,
@@ -53,7 +44,7 @@
             },
             {
                "type":"item",
-               "material":"Dragon_Head",
+               "material":"DRAGON_HEAD",
                "weight":42,
                "amount":1
             },
@@ -242,13 +233,13 @@
             },
             {
                "type":"item",
-               "material":"Enchanting_Table",
+               "material":"ENCHANTING_TABLE",
                "weight":42,
                "amount":1
             },
             {
                "type":"item",
-               "material":"heart_of_the_sea",
+               "material":"HEART_OF_THE_SEA",
                "weight":42,
                "amount":{
                   "min":1,
@@ -257,13 +248,13 @@
             },
             {
                "type":"item",
-               "material":"Lodestone",
+               "material":"LODESTONE",
                "weight":42,
                "amount":1
             },
             {
                "type":"item",
-               "material":"nautilus_shell",
+               "material":"NAUTILUS_SHELL",
                "weight":42,
                "amount":{
                   "min":1,
@@ -272,7 +263,7 @@
             },
             {
                "type":"item",
-               "material":"nether_wart",
+               "material":"NETHER_WART",
                "weight":42,
                "amount":{
                   "min":16,
@@ -281,7 +272,7 @@
             },
             {
                "type":"item",
-               "material":"shroomlight",
+               "material":"SHROOMLIGHT",
                "weight":42,
                "amount":{
                   "min":1,
@@ -290,7 +281,7 @@
             },
             {
                "type":"item",
-               "material":"Target",
+               "material":"TARGET",
                "weight":42,
                "amount":{
                   "min":1,
@@ -338,7 +329,7 @@
             },
             {
                "type":"item",
-               "material":"Bookshelf",
+               "material":"BOOKSHELF",
                "weight":26,
                "amount":{
                   "min":1,
@@ -347,7 +338,7 @@
             },
             {
                "type":"item",
-               "material":"chorus_flower",
+               "material":"CHORUS_FLOWER",
                "weight":26,
                "amount":{
                   "min":1,
@@ -365,7 +356,7 @@
             },
             {
                "type":"item",
-               "material":"Deepslate_Gold_Ore",
+               "material":"DEEPSLATE_GOLD_ORE",
                "weight":26,
                "amount":{
                   "min":1,
@@ -374,7 +365,7 @@
             },
             {
                "type":"item",
-               "material":"Deepslate_Iron_Ore",
+               "material":"DEEPSLATE_IRON_ORE",
                "weight":26,
                "amount":{
                   "min":1,
@@ -383,7 +374,7 @@
             },
             {
                "type":"item",
-               "material":"Deepslate_Lapis_Ore",
+               "material":"DEEPSLATE_LAPIS_ORE",
                "weight":26,
                "amount":{
                   "min":1,
@@ -392,7 +383,7 @@
             },
             {
                "type":"item",
-               "material":"Deepslate_Redstone_Ore",
+               "material":"DEEPSLATE_REDSTONE_ORE",
                "weight":26,
                "amount":{
                   "min":1,
@@ -410,7 +401,7 @@
             },
             {
                "type":"item",
-               "material":"Echo_Shard",
+               "material":"ECHO_SHARD",
                "weight":26,
                "amount":{
                   "min":1,
@@ -419,7 +410,7 @@
             },
             {
                "type":"item",
-               "material":"Emerald",
+               "material":"EMERALD",
                "weight":26,
                "amount":{
                   "min":1,
@@ -428,7 +419,7 @@
             },
             {
                "type":"item",
-               "material":"End_Rod",
+               "material":"END_ROD",
                "weight":26,
                "amount":{
                   "min":5,
@@ -437,13 +428,13 @@
             },
             {
                "type":"item",
-               "material":"Ender_Chest",
+               "material":"ENDER_CHEST",
                "weight":26,
                "amount":1
             },
             {
                "type":"item",
-               "material":"Firework_rocket",
+               "material":"FIREWORK_ROCKET",
                "weight":26,
                "amount":{
                   "min":16,
@@ -461,7 +452,7 @@
             },
             {
                "type":"item",
-               "material":"glowstone_dust",
+               "material":"GLOWSTONE_DUST",
                "weight":26,
                "amount":{
                   "min":16,
@@ -515,22 +506,13 @@
             },
             {
                "type":"item",
-               "material":"lapis_ore",
-               "weight":26,
-               "amount":{
-                  "min":1,
-                  "max":5
-               }
-            },
-            {
-               "type":"item",
                "material":"LAVA_BUCKET",
                "weight":26,
                "amount":1
             },
             {
                "type":"item",
-               "material":"Lead",
+               "material":"LEAD",
                "weight":26,
                "amount":{
                   "min":2,
@@ -539,7 +521,7 @@
             },
             {
                "type":"item",
-               "material":"Mycelium",
+               "material":"MYCELIUM",
                "weight":26,
                "amount":{
                   "min":16,
@@ -548,7 +530,7 @@
             },
             {
                "type":"item",
-               "material":"name_tag",
+               "material":"NAME_TAG",
                "weight":26,
                "amount":3
             },
@@ -587,7 +569,7 @@
             },
             {
                "type":"item",
-               "material":"Painting",
+               "material":"PAINTING",
                "weight":26,
                "amount":{
                   "min":1,
@@ -605,18 +587,9 @@
             },
             {
                "type":"item",
-               "material":"pumpkin_pie",
+               "material":"PUMPKIN_PIE",
                "weight":26,
                "amount":16
-            },
-            {
-               "type":"item",
-               "material":"redstone_ore",
-               "weight":26,
-               "amount":{
-                  "min":1,
-                  "max":5
-               }
             },
             {
                "type":"item",
@@ -629,7 +602,7 @@
             },
             {
                "type":"item",
-               "material":"Sculk",
+               "material":"SCULK",
                "weight":26,
                "amount":{
                   "min":8,
@@ -647,16 +620,7 @@
             },
             {
                "type":"item",
-               "material":"sea_lantern",
-               "weight":26,
-               "amount":{
-                  "min":8,
-                  "max":16
-               }
-            },
-            {
-               "type":"item",
-               "material":"shulker_box",
+               "material":"SHULKER_BOX",
                "weight":26,
                "amount":1
             },
@@ -671,13 +635,13 @@
             },
             {
                "type":"item",
-               "material":"totem_of_undying",
+               "material":"TOTEM_OF_UNDYING",
                "weight":26,
                "amount":1
             },
             {
                "type":"item",
-               "material":"turtle_egg",
+               "material":"TURTLE_EGG",
                "weight":26,
                "amount":{
                   "min":1,
@@ -701,7 +665,7 @@
             },
             {
                "type":"item",
-               "material":"amethyst_block",
+               "material":"AMETHYST_BLOCK",
                "weight":7,
                "amount":{
                   "min":8,
@@ -737,7 +701,7 @@
             },
             {
                "type":"item",
-               "material":"brown_mushroom_block",
+               "material":"BROWN_MUSHROOM_BLOCK",
                "weight":7,
                "amount":{
                   "min":8,
@@ -746,19 +710,19 @@
             },
             {
                "type":"item",
-               "material":"Cake",
+               "material":"CAKE",
                "weight":7,
                "amount":1
             },
             {
                "type":"item",
-               "material":"Cookie",
+               "material":"COOKIE",
                "weight":7,
                "amount":64
             },
             {
                "type":"item",
-               "material":"crimson_fungus",
+               "material":"CRIMSON_FUNGUS",
                "weight":7,
                "amount":{
                   "min":8,
@@ -767,7 +731,7 @@
             },
             {
                "type":"item",
-               "material":"deepslate_copper_ore",
+               "material":"DEEPSLATE_COPPER_ORE",
                "weight":7,
                "amount":{
                   "min":8,
@@ -776,7 +740,7 @@
             },
             {
                "type":"item",
-               "material":"End_Stone",
+               "material":"END_STONE",
                "weight":7,
                "amount":{
                   "min":8,
@@ -791,7 +755,7 @@
             },
             {
                "type":"item",
-               "material":"Glass",
+               "material":"GLASS",
                "weight":7,
                "amount":{
                   "min":16,
@@ -800,7 +764,7 @@
             },
             {
                "type":"item",
-               "material":"glistering_melon_slice",
+               "material":"GLISTENING_MELON_SLICE",
                "weight":7,
                "amount":{
                   "min":5,
@@ -881,16 +845,7 @@
             },
             {
                "type":"item",
-               "material":"magenta_stained_glass",
-               "weight":7,
-               "amount":{
-                  "min":16,
-                  "max":32
-               }
-            },
-            {
-               "type":"item",
-               "material":"melon_slice",
+               "material":"MELON_SLICE",
                "weight":7,
                "amount":{
                   "min":16,
@@ -917,7 +872,7 @@
             },
             {
                "type":"item",
-               "material":"powder_snow_bucket",
+               "material":"POWDER_SNOW_BUCKET",
                "weight":7,
                "amount":1
             },
@@ -947,7 +902,7 @@
             },
             {
                "type":"item",
-               "material":"Pumpkin",
+               "material":"PUMPKIN",
                "weight":7,
                "amount":{
                   "min":8,
@@ -956,7 +911,7 @@
             },
             {
                "type":"item",
-               "material":"purpur_block",
+               "material":"PURPUR_BLOCK",
                "weight":7,
                "amount":{
                   "min":8,
@@ -1016,7 +971,7 @@
             },
             {
                "type":"item",
-               "material":"sculk_catalyst",
+               "material":"SCULK_CATALYST",
                "weight":7,
                "amount":{
                   "min":3,
@@ -1034,7 +989,7 @@
             },
             {
                "type":"item",
-               "material":"Shield",
+               "material":"SHIELD",
                "weight":7,
                "amount":1
             },
@@ -1058,7 +1013,7 @@
             },
             {
                "type":"item",
-               "material":"spider_eye",
+               "material":"SPIDER_EYE",
                "weight":7,
                "amount":{
                   "min":5,
@@ -1085,7 +1040,7 @@
             },
             {
                "type":"item",
-               "material":"verdant_froglight",
+               "material":"VERDANT_FROGLIGHT",
                "weight":7,
                "amount":{
                   "min":8,
@@ -1112,13 +1067,13 @@
             },
             {
                "type":"item",
-               "material":"Beacon",
+               "material":"BEACON",
                "weight":1,
                "amount":1
             },
             {
                "type":"item",
-               "material":"recovery_compass",
+               "material":"RECOVERY_COMPASS",
                "weight":1,
                "amount":1
             },
@@ -1130,18 +1085,18 @@
                "enchantsamount":2,
                "enchants":[
                   {
-                     "name":"unbreaking",
+                     "name":"DURABILITY",
                      "level":3
                   },
                   {
-                     "name":"mending",
+                     "name":"MENDING",
                      "level":1
                   }
                ]
             },
             {
                "type":"item",
-               "material":"conduit",
+               "material":"CONDUIT",
                "weight":1,
                "amount":1
             }
@@ -1152,7 +1107,7 @@
          "entries":[
             {
                "type":"item",
-               "material":"netherite_helmet",
+               "material":"NETHERITE_HELMET",
                "name":"<gradient:#cc0000:#ffffff>Bacon's Blast Helm</gradient>",
                "lore":[
                   "<red>Can't be bothered to watch out for Creepers? Be like Bacon and don't!"
@@ -1162,22 +1117,22 @@
                "enchantsamount":3,
                "enchants":[
                   {
-                     "name":"Blast_Protection",
+                     "name":"PROTECTION_EXPLOSIONS",
                      "level":5
                   },
                   {
-                     "name":"UNBREAKING",
+                     "name":"DURABILITY",
                      "level":3
                   },
                   {
-                     "name":"Mending",
+                     "name":"MENDING",
                      "level":1
                   }
                ]
             },
             {
                "type":"item",
-               "material":"netherite_chestplate",
+               "material":"NETHERITE_CHESTPLATE",
                "name":"<gradient:#cc0000:#ffffff>Bacon's Asbestos Vest</gradient>",
                "lore":[
                   "<red>Tired of burning to death in lava? Be like Bacon and don't!"
@@ -1187,22 +1142,22 @@
                "enchantsamount":3,
                "enchants":[
                   {
-                     "name":"Fire_Protection",
+                     "name":"PROTECTION_FIRE",
                      "level":5
                   },
                   {
-                     "name":"UNBREAKING",
+                     "name":"DURABILITY",
                      "level":3
                   },
                   {
-                     "name":"Mending",
+                     "name":"MENDING",
                      "level":1
                   }
                ]
             },
             {
                "type":"item",
-               "material":"netherite_leggings",
+               "material":"NETHERITE_LEGGINGS",
                "name":"<gradient:#cc0000:#ffffff>Bacon's Khakis</gradient>",
                "lore":[
                   "<red>Sick of getting picked on by others? Yeah me too... <3 Bacon"
@@ -1212,26 +1167,26 @@
                "enchantsamount":4,
                "enchants":[
                   {
-                     "name":"Protection",
+                     "name":"PROTECTION_ENVIRONMENT",
                      "level":4
                   },
                   {
-                     "name":"Swift_Sneak",
+                     "name":"SWIFT_SNEAK",
                      "level":3
                   },
                   {
-                     "name":"UNBREAKING",
+                     "name":"DURABILITY",
                      "level":3
                   },
                   {
-                     "name":"Mending",
+                     "name":"MENDING",
                      "level":1
                   }
                ]
             },
             {
                "type":"item",
-               "material":"netherite_boots",
+               "material":"NETHERITE_BOOTS",
                "name":"<gradient:#cc0000:#ffffff>Bacon's Utility Boots</gradient>",
                "lore":[
                   "<red>Walk anywhere or run... It's up to you with these bad boys!"
@@ -1241,30 +1196,30 @@
                "enchantsamount":5,
                "enchants":[
                   {
-                     "name":"Soul_Speed",
+                     "name":"SOUL_SPEED",
                      "level":4
                   },
                   {
-                     "name":"Depth_Strider",
+                     "name":"DEPTH_STRIDER",
                      "level":4
                   },
                   {
-                     "name":"Feather_Falling",
+                     "name":"PROTECTION_FALL",
                      "level":4
                   },
                   {
-                     "name":"UNBREAKING",
-                     "level":4
+                     "name":"DURABILITY",
+                     "level":3
                   },
                   {
-                     "name":"Mending",
+                     "name":"MENDING",
                      "level":1
                   }
                ]
             },
             {
                "type":"item",
-               "material":"netherite_helmet",
+               "material":"NETHERITE_HELMET",
                "name":"<rainbow>Sudo's Quilled Cap</rainbow>",
                "lore":[
                   "<white>Hitting the owner is a really bad idea..."
@@ -1274,26 +1229,26 @@
                "enchantsamount":4,
                "enchants":[
                   {
-                     "name":"Thorns",
+                     "name":"THORNS",
                      "level":10
                   },
                   {
-                     "name":"UNBREAKING",
+                     "name":"DURABILITY",
                      "level":3
                   },
                   {
-                     "name":"Protection",
+                     "name":"PROTECTION_ENVIRONMENT",
                      "level":4
                   },
                   {
-                     "name":"Mending",
+                     "name":"MENDING",
                      "level":1
                   }
                ]
             },
             {
                "type":"item",
-               "material":"netherite_chestplate",
+               "material":"NETHERITE_CHESTPLATE",
                "name":"<rainbow>Sudo's Thick Hide</rainbow>",
                "lore":[
                   "<white>It's fine if you don't like the new feature. I only spent 3 days making it from scratch."
@@ -1303,26 +1258,26 @@
                "enchantsamount":4,
                "enchants":[
                   {
-                     "name":"Thorns",
+                     "name":"THORNS",
                      "level":3
                   },
                   {
-                     "name":"UNBREAKING",
+                     "name":"DURABILITY",
                      "level":3
                   },
                   {
-                     "name":"Protection",
+                     "name":"PROTECTION_ENVIRONMENT",
                      "level":6
                   },
                   {
-                     "name":"Mending",
+                     "name":"MENDING",
                      "level":1
                   }
                ]
             },
             {
                "type":"item",
-               "material":"netherite_leggings",
+               "material":"NETHERITE_LEGGINGS",
                "name":"<rainbow>Sudo's Bug Free Pants</rainbow>",
                "lore":[
                   "<white>It's working as intended."
@@ -1332,30 +1287,30 @@
                "enchantsamount":5,
                "enchants":[
                   {
-                     "name":"Thorns",
+                     "name":"THORNS",
                      "level":4
                   },
                   {
-                     "name":"UNBREAKING",
-                     "level":4
+                     "name":"DURABILITY",
+                     "level":3
                   },
                   {
-                     "name":"Protection",
+                     "name":"PROTECTION_ENVIRONMENT",
                      "level":5
                   },
                   {
-                     "name":"Swift_Sneak",
+                     "name":"SWIFT_SNEAK",
                      "level":4
                   },
                   {
-                     "name":"Mending",
+                     "name":"MENDING",
                      "level":1
                   }
                ]
             },
             {
                "type":"item",
-               "material":"netherite_boots",
+               "material":"NETHERITE_BOOTS",
                "name":"<rainbow>Sudo's Freefall Boots</rainbow>",
                "lore":[
                   "<white>Fall damage is for players."
@@ -1365,30 +1320,30 @@
                "enchantsamount":5,
                "enchants":[
                   {
-                     "name":"Thorns",
+                     "name":"THORNS",
                      "level":3
                   },
                   {
-                     "name":"UNBREAKING",
+                     "name":"DURABILITY",
                      "level":3
                   },
                   {
-                     "name":"Protection",
+                     "name":"PROTECTION_ENVIRONMENT",
                      "level":4
                   },
                   {
-                     "name":"Feather_Falling",
+                     "name":"PROTECTION_FALL",
                      "level":6
                   },
                   {
-                     "name":"Mending",
+                     "name":"MENDING",
                      "level":1
                   }
                ]
             },
             {
                "type":"item",
-               "material":"diamond_helmet",
+               "material":"DIAMOND_HELMET",
                "name":"Perfect Helm",
                "lore":[
                   "The internet says these are the best enchants for a Helm."
@@ -1398,34 +1353,34 @@
                "enchantsamount":6,
                "enchants":[
                   {
-                     "name":"Thorns",
+                     "name":"THORNS",
                      "level":3
                   },
                   {
-                     "name":"UNBREAKING",
+                     "name":"DURABILITY",
                      "level":3
                   },
                   {
-                     "name":"Protection",
+                     "name":"PROTECTION_ENVIRONMENT",
                      "level":4
                   },
                   {
-                     "name":"Mending",
+                     "name":"MENDING",
                      "level":1
                   },
                   {
-                     "name":"Respiration",
+                     "name":"OXYGEN",
                      "level":3
                   },
                   {
-                     "name":"Aqua_Affinity",
+                     "name":"WATER_WORKER",
                      "level":1
                   }
                ]
             },
             {
                "type":"item",
-               "material":"diamond_chestplate",
+               "material":"DIAMOND_CHESTPLATE",
                "name":"Perfect Chest",
                "lore":[
                   "The internet says these are the best enchants for a Chest."
@@ -1435,26 +1390,26 @@
                "enchantsamount":4,
                "enchants":[
                   {
-                     "name":"Thorns",
+                     "name":"THORNS",
                      "level":3
                   },
                   {
-                     "name":"UNBREAKING",
+                     "name":"DURABILITY",
                      "level":3
                   },
                   {
-                     "name":"Protection",
+                     "name":"PROTECTION_ENVIRONMENT",
                      "level":4
                   },
                   {
-                     "name":"Mending",
+                     "name":"MENDING",
                      "level":1
                   }
                ]
             },
             {
                "type":"item",
-               "material":"diamond_leggings",
+               "material":"DIAMOND_LEGGINGS",
                "name":"Perfect Legs",
                "lore":[
                   "The internet says these are the best enchants for a Legs."
@@ -1464,30 +1419,30 @@
                "enchantsamount":5,
                "enchants":[
                   {
-                     "name":"Thorns",
+                     "name":"THORNS",
                      "level":3
                   },
                   {
-                     "name":"UNBREAKING",
+                     "name":"DURABILITY",
                      "level":3
                   },
                   {
-                     "name":"Protection",
+                     "name":"PROTECTION_ENVIRONMENT",
                      "level":4
                   },
                   {
-                     "name":"Mending",
+                     "name":"MENDING",
                      "level":1
                   },
                   {
-                     "name":"Swift_Sneak",
+                     "name":"SWIFT_SNEAK",
                      "level":3
                   }
                ]
             },
             {
                "type":"item",
-               "material":"diamond_boots",
+               "material":"DIAMOND_BOOTS",
                "name":"Perfect Boots",
                "lore":[
                   "The internet says these are the best enchants for a Helm."
@@ -1497,31 +1452,31 @@
                "enchantsamount":5,
                "enchants":[
                   {
-                     "name":"Thorns",
+                     "name":"THORNS",
                      "level":3
                   },
                   {
-                     "name":"UNBREAKING",
+                     "name":"DURABILITY",
                      "level":3
                   },
                   {
-                     "name":"Protection",
+                     "name":"PROTECTION_ENVIRONMENT",
                      "level":4
                   },
                   {
-                     "name":"Mending",
+                     "name":"MENDING",
                      "level":1
                   },
                   {
-                     "name":"Depth_Strider",
+                     "name":"DEPTH_STRIDER",
                      "level":3
                   },
                   {
-                     "name":"Feather_Falling",
+                     "name":"PROTECTION_FALL",
                      "level":4
                   },
                   {
-                     "name":"Soul_Speed",
+                     "name":"SOUL_SPEED",
                      "level":3
                   }
                ]
@@ -1538,15 +1493,15 @@
                "enchantsamount":3,
                "enchants":[
                   {
-                     "name":"UNBREAKING",
+                     "name":"DURABILITY",
                      "level":3
                   },
                   {
-                     "name":"Infinity",
+                     "name":"ARROW_INFINITE",
                      "level":1
                   },
                   {
-                     "name":"Mending",
+                     "name":"MENDING",
                      "level":1
                   }
                ]
@@ -1563,11 +1518,11 @@
                "enchantsamount":2,
                "enchants":[
                   {
-                     "name":"Sharpness",
+                     "name":"DAMAGE_ALL",
                      "level":6
                   },
                   {
-                     "name":"Looting",
+                     "name":"LOOT_BONUS_MOBS",
                      "level":4
                   }
                ]
@@ -1584,15 +1539,15 @@
                "enchantsamount":3,
                "enchants":[
                   {
-                     "name":"Unbreaking",
+                     "name":"DURABILITY",
                      "level":10
                   },
                   {
-                     "name":"Sharpness",
+                     "name":"DAMAGE_ALL",
                      "level":7
                   },
                   {
-                     "name":"Mending",
+                     "name":"MENDING",
                      "level":1
                   }
                ]
@@ -1609,19 +1564,19 @@
                "enchantsamount":4,
                "enchants":[
                   {
-                     "name":"FORTUNE",
+                     "name":"LOOT_BONUS_BLOCKS",
                      "level":4
                   },
                   {
-                     "name":"UNBREAKING",
+                     "name":"DURABILITY",
                      "level":3
                   },
                   {
-                     "name":"EFFICIENCY",
+                     "name":"DIG_SPEED",
                      "level":5
                   },
                   {
-                     "name":"Mending",
+                     "name":"MENDING",
                      "level":1
                   }
                ]
@@ -1638,7 +1593,7 @@
                "enchantsamount":3,
                "enchants":[
                   {
-                     "name":"EFFICIENCY",
+                     "name":"DIG_SPEED",
                      "level":6
                   },
                   {
@@ -1646,7 +1601,7 @@
                      "level":1
                   },
                   {
-                     "name":"Mending",
+                     "name":"MENDING",
                      "level":1
                   }
                ]
@@ -1663,15 +1618,15 @@
                "enchantsamount":3,
                "enchants":[
                   {
-                     "name":"EFFICIENCY",
+                     "name":"DIG_SPEED",
                      "level":5
                   },
                   {
-                     "name":"FORTUNE",
+                     "name":"LOOT_BONUS_BLOCKS",
                      "level":4
                   },
                   {
-                     "name":"Mending",
+                     "name":"MENDING",
                      "level":1
                   }
                ]
@@ -1692,15 +1647,15 @@
                      "level":1
                   },
                   {
-                     "name":"UNBREAKING",
+                     "name":"DURABILITY",
                      "level":5
                   },
                   {
-                     "name":"EFFICIENCY",
+                     "name":"DIG_SPEED",
                      "level":5
                   },
                   {
-                     "name":"Mending",
+                     "name":"MENDING",
                      "level":1
                   }
                ]
@@ -1717,15 +1672,15 @@
                "enchantsamount":3,
                "enchants":[
                   {
-                     "name":"Loyalty",
+                     "name":"LOYALTY",
                      "level":4
                   },
                   {
-                     "name":"UNBREAKING",
+                     "name":"DURABILITY",
                      "level":3
                   },
                   {
-                     "name":"Mending",
+                     "name":"MENDING",
                      "level":1
                   }
                ]
