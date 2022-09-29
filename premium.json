@@ -1067,7 +1067,7 @@
                "enchantsamount":4,
                "enchants":[
                   {
-                     "name":"PROTECTION_ENVIRONMENT",
+                     "name":"PROTECTION_ENVIRONMENTAL",
                      "level":4
                   },
                   {
@@ -1137,7 +1137,7 @@
                      "level":3
                   },
                   {
-                     "name":"PROTECTION_ENVIRONMENT",
+                     "name":"PROTECTION_ENVIRONMENTAL",
                      "level":4
                   },
                   {
@@ -1166,7 +1166,7 @@
                      "level":3
                   },
                   {
-                     "name":"PROTECTION_ENVIRONMENT",
+                     "name":"PROTECTION_ENVIRONMENTAL",
                      "level":6
                   },
                   {
@@ -1195,7 +1195,7 @@
                      "level":3
                   },
                   {
-                     "name":"PROTECTION_ENVIRONMENT",
+                     "name":"PROTECTION_ENVIRONMENTAL",
                      "level":5
                   },
                   {
@@ -1228,7 +1228,7 @@
                      "level":3
                   },
                   {
-                     "name":"PROTECTION_ENVIRONMENT",
+                     "name":"PROTECTION_ENVIRONMENTAL",
                      "level":4
                   },
                   {
@@ -1261,7 +1261,7 @@
                      "level":3
                   },
                   {
-                     "name":"PROTECTION_ENVIRONMENT",
+                     "name":"PROTECTION_ENVIRONMENTAL",
                      "level":4
                   },
                   {
@@ -1298,7 +1298,7 @@
                      "level":3
                   },
                   {
-                     "name":"PROTECTION_ENVIRONMENT",
+                     "name":"PROTECTION_ENVIRONMENTAL",
                      "level":4
                   },
                   {
@@ -1327,7 +1327,7 @@
                      "level":3
                   },
                   {
-                     "name":"PROTECTION_ENVIRONMENT",
+                     "name":"PROTECTION_ENVIRONMENTAL",
                      "level":4
                   },
                   {
@@ -1360,7 +1360,7 @@
                      "level":3
                   },
                   {
-                     "name":"PROTECTION_ENVIRONMENT",
+                     "name":"PROTECTION_ENVIRONMENTAL",
                      "level":4
                   },
                   {

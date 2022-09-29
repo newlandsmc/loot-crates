@@ -885,7 +885,7 @@
             },
             {
                "type":"item",
-               "material":"CHRORUS_FLOWER",
+               "material":"CHORUS_FLOWER",
                "weight":1,
                "amount":{
                   "min":1,
