@@ -126,88 +126,108 @@
                "enchants":[
                   {
                      "name":"DURABILITY",
-                     "level":3
+                     "level":3,
+                     "weight":1
                   },
                   {
                      "name":"PROTECTION",
-                     "level":4
+                     "level":4,
+                     "weight":1
                   },
                   {
                      "name":"PROTECTION_FIRE",
-                     "level":4
+                     "level":4,
+                     "weight":1
                   },
                   {
                      "name":"PROTECTION_FALL",
-                     "level":4
+                     "level":4,
+                     "weight":1
                   },
                   {
                      "name":"PROTECTION_EXPLOSIONS",
-                     "level":4
+                     "level":4,
+                     "weight":1
                   },
                   {
                      "name":"PROTECTION_PROJECTILE",
-                     "level":4
+                     "level":4,
+                     "weight":1
                   },
                   {
                      "name":"OXYGEN",
-                     "level":3
+                     "level":3,
+                     "weight":1
                   },
                   {
                      "name":"WATER_WORKER",
-                     "level":1
+                     "level":1,
+                     "weight":1
                   },
                   {
                      "name":"THORNS",
-                     "level":3
+                     "level":3,
+                     "weight":1
                   },
                   {
                      "name":"DEPTH_STRIDER",
-                     "level":3
+                     "level":3,
+                     "weight":1
                   },
                   {
                      "name":"FROST_WALKER",
-                     "level":2
+                     "level":2,
+                     "weight":1
                   },
                   {
                      "name":"DAMAGE_ALL",
-                     "level":5
+                     "level":5,
+                     "weight":1
                   },
                   {
                      "name":"LOOT_BONUS_BLOCKS",
-                     "level":3
+                     "level":3,
+                     "weight":1
                   },
                   {
                      "name":"LOOT_BONUS_MOBS",
-                     "level":3
+                     "level":3,
+                     "weight":1
                   },
                   {
                      "name":"DIG_SPEED",
-                     "level":5
+                     "level":5,
+                     "weight":1
                   },
                   {
                      "name":"SILK_TOUCH",
-                     "level":1
+                     "level":1,
+                     "weight":1
                   },
                   {
                      "name":"LUCK",
-                     "level":3
+                     "level":3,
+                     "weight":1
                   },
                   {
                      "name":"ARROW_DAMAGE",
-                     "level":5
+                     "level":5,
+                     "weight":1
                   },
                   {
                      "name":"QUICK_CHARGE",
-                     "level":3
+                     "level":3,
+                     "weight":1
                   },
                   {
                      "name":"PIERCING",
-                     "level":4
+                     "level":4,
+                     "weight":1
                   },
                   {
                      "name":"MENDING",
                      "level":1,
-                     "weight":5
+                     "weight":1
                   }
                ]
             },
