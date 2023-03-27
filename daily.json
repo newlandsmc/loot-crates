@@ -296,8 +296,8 @@
                "material":"NOTE_BLOCK",
                "weight":1,
                "amount":{
-                  "min":3,
-                  "max":5
+                  "min":1,
+                  "max":3
                }
             },
             {
@@ -305,8 +305,8 @@
                "material":"OCHRE_FROGLIGHT",
                "weight":1,
                "amount":{
-                  "min":8,
-                  "max":16
+                  "min":1,
+                  "max":6
                }
             },
             {
@@ -323,8 +323,8 @@
                "material":"PEARLESCENT_FROGLIGHT",
                "weight":1,
                "amount":{
-                  "min":8,
-                  "max":16
+                  "min":1,
+                  "max":6
                }
             },
             {
@@ -448,8 +448,8 @@
                "material":"AMETHYST_BLOCK",
                "weight":1,
                "amount":{
-                  "min":8,
-                  "max":16
+                  "min":1,
+                  "max":6
                }
             },
             {
@@ -457,8 +457,8 @@
                "material":"AMETHYST_SHARD",
                "weight":1,
                "amount":{
-                  "min":8,
-                  "max":16
+                  "min":1,
+                  "max":6
                }
             },
             {
@@ -466,8 +466,8 @@
                "material":"BONE_BLOCK",
                "weight":1,
                "amount":{
-                  "min":8,
-                  "max":16
+                  "min":1,
+                  "max":6
                }
             },
             {
@@ -475,8 +475,8 @@
                "material":"BOOK",
                "weight":1,
                "amount":{
-                  "min":8,
-                  "max":16
+                  "min":1,
+                  "max":6
                }
             },
             {
@@ -484,8 +484,8 @@
                "material":"BROWN_MUSHROOM_BLOCK",
                "weight":1,
                "amount":{
-                  "min":8,
-                  "max":16
+                  "min":1,
+                  "max":6
                }
             },
             {
@@ -498,15 +498,15 @@
                "type":"item",
                "material":"COOKIE",
                "weight":1,
-               "amount":64
+               "amount":16
             },
             {
                "type":"item",
                "material":"CRIMSON_FUNGUS",
                "weight":1,
                "amount":{
-                  "min":8,
-                  "max":16
+                  "min":1,
+                  "max":6
                }
             },
             {
@@ -514,32 +514,23 @@
                "material":"DEEPSLATE_COPPER_ORE",
                "weight":1,
                "amount":{
-                  "min":8,
-                  "max":16
-               }
-            },
-            {
-               "type":"item",
-               "material":"END_STONE",
-               "weight":1,
-               "amount":{
-                  "min":8,
-                  "max":16
+                  "min":1,
+                  "max":6
                }
             },
             {
                "type":"item",
                "material":"ENDER_PEARL",
                "weight":1,
-               "amount":16
+               "amount":3
             },
             {
                "type":"item",
                "material":"GLASS",
                "weight":1,
                "amount":{
-                  "min":16,
-                  "max":32
+                  "min":1,
+                  "max":6
                }
             },
             {
@@ -547,8 +538,8 @@
                "material":"GLISTERING_MELON_SLICE",
                "weight":1,
                "amount":{
-                  "min":5,
-                  "max":10
+                  "min":1,
+                  "max":6
                }
             },
             {
@@ -556,8 +547,8 @@
                "material":"GLOW_INK_SAC",
                "weight":1,
                "amount":{
-                  "min":5,
-                  "max":10
+                  "min":1,
+                  "max":6
                }
             },
             {
@@ -565,8 +556,8 @@
                "material":"GLOW_LICHEN",
                "weight":1,
                "amount":{
-                  "min":5,
-                  "max":10
+                  "min":1,
+                  "max":6
                }
             },
             {
@@ -574,8 +565,8 @@
                "material":"GOLDEN_CARROT",
                "weight":1,
                "amount":{
-                  "min":5,
-                  "max":10
+                  "min":1,
+                  "max":6
                }
             },
             {
@@ -583,8 +574,8 @@
                "material":"GUNPOWDER",
                "weight":1,
                "amount":{
-                  "min":5,
-                  "max":10
+                  "min":1,
+                  "max":6
                }
             },
             {
@@ -592,8 +583,8 @@
                "material":"HONEY_BOTTLE",
                "weight":1,
                "amount":{
-                  "min":5,
-                  "max":10
+                  "min":1,
+                  "max":4
                }
             },
             {
@@ -601,8 +592,8 @@
                "material":"ICE",
                "weight":1,
                "amount":{
-                  "min":16,
-                  "max":32
+                  "min":1,
+                  "max":6
                }
             },
             {
@@ -610,8 +601,8 @@
                "material":"LAPIS_LAZULI",
                "weight":1,
                "amount":{
-                  "min":16,
-                  "max":32
+                  "min":1,
+                  "max":6
                }
             },
             {
@@ -619,8 +610,8 @@
                "material":"LEATHER",
                "weight":1,
                "amount":{
-                  "min":8,
-                  "max":16
+                  "min":1,
+                  "max":6
                }
             },
             {
@@ -628,8 +619,8 @@
                "material":"MELON_SLICE",
                "weight":1,
                "amount":{
-                  "min":16,
-                  "max":32
+                  "min":1,
+                  "max":6
                }
             },
             {
@@ -646,8 +637,8 @@
                "material":"POTATO",
                "weight":1,
                "amount":{
-                  "min":16,
-                  "max":32
+                  "min":1,
+                  "max":16
                }
             },
             {
@@ -658,44 +649,11 @@
             },
             {
                "type":"item",
-               "material":"PRISMARINE",
-               "weight":1,
-               "amount":{
-                  "min":8,
-                  "max":16
-               }
-            },
-            {
-               "type":"item",
-               "material":"PRISMARINE_CRYSTALS",
-               "weight":1,
-               "amount":{
-                  "min":16,
-                  "max":32
-               }
-            },
-            {
-               "type":"item",
-               "material":"PUFFERFISH_BUCKET",
-               "weight":1,
-               "amount":1
-            },
-            {
-               "type":"item",
                "material":"PUMPKIN",
                "weight":1,
                "amount":{
-                  "min":8,
-                  "max":16
-               }
-            },
-            {
-               "type":"item",
-               "material":"PURPUR_BLOCK",
-               "weight":1,
-               "amount":{
-                  "min":8,
-                  "max":16
+                  "min":1,
+                  "max":6
                }
             },
             {
@@ -703,15 +661,15 @@
                "material":"QUARTZ",
                "weight":1,
                "amount":{
-                  "min":16,
-                  "max":32
+                  "min":1,
+                  "max":6
                }
             },
             {
                "type":"item",
                "material":"RABBIT_FOOT",
                "weight":1,
-               "amount":7
+               "amount":6
             },
             {
                "type":"item",
@@ -745,17 +703,8 @@
                "material":"REDSTONE",
                "weight":1,
                "amount":{
-                  "min":8,
-                  "max":16
-               }
-            },
-            {
-               "type":"item",
-               "material":"SCULK_CATALYST",
-               "weight":1,
-               "amount":{
-                  "min":3,
-                  "max":5
+                  "min":1,
+                  "max":6
                }
             },
             {
@@ -775,20 +724,11 @@
             },
             {
                "type":"item",
-               "material":"SHULKER_SHELL",
-               "weight":1,
-               "amount":{
-                  "min":1,
-                  "max":3
-               }
-            },
-            {
-               "type":"item",
                "material":"SLIME_BALL",
                "weight":1,
                "amount":{
-                  "min":8,
-                  "max":16
+                  "min":1,
+                  "max":6
                }
             },
             {
@@ -805,8 +745,8 @@
                "material":"SPONGE",
                "weight":1,
                "amount":{
-                  "min":3,
-                  "max":9
+                  "min":1,
+                  "max":6
                }
             },
             {
@@ -814,8 +754,8 @@
                "material":"SPRUCE_LOG",
                "weight":1,
                "amount":{
-                  "min":16,
-                  "max":32
+                  "min":1,
+                  "max":6
                }
             },
             {
@@ -823,8 +763,8 @@
                "material":"VERDANT_FROGLIGHT",
                "weight":1,
                "amount":{
-                  "min":8,
-                  "max":16
+                  "min":1,
+                  "max":6
                }
             },
             {
@@ -832,8 +772,8 @@
                "material":"WARPED_STEM",
                "weight":1,
                "amount":{
-                  "min":16,
-                  "max":32
+                  "min":1,
+                  "max":6
                }
             },
             {
@@ -842,7 +782,7 @@
                "weight":1,
                "amount":{
                   "min":1,
-                  "max":64
+                  "max":6
                }
             }
          ]
@@ -856,7 +796,7 @@
                "weight":1,
                "amount":{
                   "min":1,
-                  "max":2
+                  "max":1
                }
             },
             {
@@ -867,38 +807,11 @@
             },
             {
                "type":"item",
-               "material":"BLAZE_ROD",
-               "weight":1,
-               "amount":{
-                  "min":1,
-                  "max":10
-               }
-            },
-            {
-               "type":"item",
                "material":"BOOKSHELF",
                "weight":1,
                "amount":{
                   "min":1,
-                  "max":2
-               }
-            },
-            {
-               "type":"item",
-               "material":"CHORUS_FLOWER",
-               "weight":1,
-               "amount":{
-                  "min":1,
-                  "max":5
-               }
-            },
-            {
-               "type":"item",
-               "material":"DARK_PRISMARINE",
-               "weight":1,
-               "amount":{
-                  "min":16,
-                  "max":32
+                  "max":1
                }
             },
             {
@@ -907,7 +820,7 @@
                "weight":1,
                "amount":{
                   "min":1,
-                  "max":5
+                  "max":2
                }
             },
             {
@@ -916,7 +829,7 @@
                "weight":1,
                "amount":{
                   "min":1,
-                  "max":5
+                  "max":2
                }
             },
             {
@@ -925,7 +838,7 @@
                "weight":1,
                "amount":{
                   "min":1,
-                  "max":5
+                  "max":2
                }
             },
             {
@@ -934,21 +847,12 @@
                "weight":1,
                "amount":{
                   "min":1,
-                  "max":5
+                  "max":2
                }
             },
             {
                "type":"item",
                "material":"DIAMOND",
-               "weight":1,
-               "amount":{
-                  "min":1,
-                  "max":5
-               }
-            },
-            {
-               "type":"item",
-               "material":"ECHO_SHARD",
                "weight":1,
                "amount":{
                   "min":1,
@@ -961,16 +865,7 @@
                "weight":1,
                "amount":{
                   "min":1,
-                  "max":5
-               }
-            },
-            {
-               "type":"item",
-               "material":"END_ROD",
-               "weight":1,
-               "amount":{
-                  "min":5,
-                  "max":10
+                  "max":2
                }
             },
             {
@@ -984,8 +879,8 @@
                "material":"FIREWORK_ROCKET",
                "weight":1,
                "amount":{
-                  "min":16,
-                  "max":32
+                  "min":1,
+                  "max":6
                }
             },
             {
@@ -994,7 +889,7 @@
                "weight":1,
                "amount":{
                   "min":1,
-                  "max":5
+                  "max":3
                }
             },
             {
@@ -1002,8 +897,8 @@
                "material":"GLOWSTONE_DUST",
                "weight":1,
                "amount":{
-                  "min":16,
-                  "max":32
+                  "min":1,
+                  "max":6
                }
             },
             {
@@ -1012,7 +907,7 @@
                "weight":1,
                "amount":{
                   "min":1,
-                  "max":5
+                  "max":2
                }
             },
             {
@@ -1021,7 +916,7 @@
                "weight":1,
                "amount":{
                   "min":1,
-                  "max":5
+                  "max":2
                }
             },
             {
@@ -1030,7 +925,7 @@
                "weight":1,
                "amount":{
                   "min":1,
-                  "max":6
+                  "max":2
                }
             },
             {
@@ -1039,7 +934,7 @@
                "weight":1,
                "amount":{
                   "min":1,
-                  "max":6
+                  "max":2
                }
             },
             {
@@ -1048,7 +943,7 @@
                "weight":1,
                "amount":{
                   "min":1,
-                  "max":5
+                  "max":3
                }
             },
             {
@@ -1062,28 +957,13 @@
                "material":"LEAD",
                "weight":1,
                "amount":{
-                  "min":2,
-                  "max":8
-               }
-            },
-            {
-               "type":"item",
-               "material":"MYCELIUM",
-               "weight":1,
-               "amount":{
-                  "min":16,
-                  "max":32
+                  "min":1,
+                  "max":6
                }
             },
             {
                "type":"item",
                "material":"NAME_TAG",
-               "weight":1,
-               "amount":3
-            },
-            {
-               "type":"item",
-               "material":"NETHER_STAR",
                "weight":1,
                "amount":1
             },
@@ -1093,7 +973,7 @@
                "weight":1,
                "amount":{
                   "min":1,
-                  "max":3
+                  "max":1
                }
             },
             {
@@ -1102,7 +982,7 @@
                "weight":1,
                "amount":{
                   "min":1,
-                  "max":2
+                  "max":1
                }
             },
             {
@@ -1145,15 +1025,6 @@
                "amount":{
                   "min":16,
                   "max":32
-               }
-            },
-            {
-               "type":"item",
-               "material":"SCULK",
-               "weight":1,
-               "amount":{
-                  "min":8,
-                  "max":16
                }
             },
             {

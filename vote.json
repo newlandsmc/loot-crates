@@ -21,7 +21,7 @@
                "weight":16,
                "amount":{
                   "min":1,
-                  "max":5
+                  "max":3
                }
             },
             {
@@ -30,30 +30,15 @@
                "weight":16,
                "amount":{
                   "min":1,
-                  "max":5
+                  "max":3
                }
-            },
-            {
-               "type":"item",
-               "material":"DRAGON_BREATH",
-               "weight":16,
-               "amount":{
-                  "min":16,
-                  "max":32
-               }
-            },
-            {
-               "type":"item",
-               "material":"DRAGON_HEAD",
-               "weight":16,
-               "amount":1
             },
             {
                "type":"item",
                "material":"DIAMOND_PICKAXE",
                "weight":16,
                "amount":1,
-               "enchantsamount":2,
+               "enchantsamount":1,
                "enchants":[
                   {
                      "name":"DURABILITY",
@@ -87,7 +72,7 @@
                "material":"DIAMOND_SWORD",
                "weight":16,
                "amount":1,
-               "enchantsamount":2,
+               "enchantsamount":1,
                "enchants":[
                   {
                      "name":"DURABILITY",
@@ -237,7 +222,7 @@
                "weight":16,
                "amount":{
                   "min":1,
-                  "max":3
+                  "max":2
                }
             },
             {
@@ -250,10 +235,7 @@
                "type":"item",
                "material":"HEART_OF_THE_SEA",
                "weight":16,
-               "amount":{
-                  "min":1,
-                  "max":2
-               }
+               "amount":1
             },
             {
                "type":"item",
@@ -267,7 +249,7 @@
                "weight":16,
                "amount":{
                   "min":1,
-                  "max":8
+                  "max":2
                }
             },
             {
@@ -275,8 +257,8 @@
                "material":"NETHER_WART",
                "weight":16,
                "amount":{
-                  "min":16,
-                  "max":32
+                  "min":1,
+                  "max":6
                }
             },
             {
@@ -307,19 +289,13 @@
                "type":"item",
                "material":"WITHER_SKELETON_SKULL",
                "weight":16,
-               "amount":{
-                  "min":1,
-                  "max":2
-               }
+               "amount":1
             },
             {
                "type":"item",
                "material":"ANCIENT_DEBRIS",
                "weight":26,
-               "amount":{
-                  "min":1,
-                  "max":2
-               }
+               "amount":1
             },
             {
                "type":"item",
@@ -331,10 +307,7 @@
                "type":"item",
                "material":"BLAZE_ROD",
                "weight":26,
-               "amount":{
-                  "min":1,
-                  "max":10
-               }
+               "amount":1
             },
             {
                "type":"item",
@@ -347,20 +320,11 @@
             },
             {
                "type":"item",
-               "material":"CHORUS_FLOWER",
-               "weight":26,
-               "amount":{
-                  "min":1,
-                  "max":5
-               }
-            },
-            {
-               "type":"item",
                "material":"DARK_PRISMARINE",
                "weight":26,
                "amount":{
-                  "min":16,
-                  "max":32
+                  "min":1,
+                  "max":6
                }
             },
             {
@@ -369,7 +333,7 @@
                "weight":26,
                "amount":{
                   "min":1,
-                  "max":5
+                  "max":2
                }
             },
             {
@@ -378,7 +342,7 @@
                "weight":26,
                "amount":{
                   "min":1,
-                  "max":5
+                  "max":2
                }
             },
             {
@@ -387,7 +351,7 @@
                "weight":26,
                "amount":{
                   "min":1,
-                  "max":5
+                  "max":2
                }
             },
             {
@@ -396,7 +360,7 @@
                "weight":26,
                "amount":{
                   "min":1,
-                  "max":5
+                  "max":2
                }
             },
             {
@@ -405,16 +369,7 @@
                "weight":26,
                "amount":{
                   "min":1,
-                  "max":5
-               }
-            },
-            {
-               "type":"item",
-               "material":"ECHO_SHARD",
-               "weight":26,
-               "amount":{
-                  "min":1,
-                  "max":2
+                  "max":3
                }
             },
             {
@@ -423,16 +378,7 @@
                "weight":26,
                "amount":{
                   "min":1,
-                  "max":5
-               }
-            },
-            {
-               "type":"item",
-               "material":"END_ROD",
-               "weight":26,
-               "amount":{
-                  "min":5,
-                  "max":10
+                  "max":2
                }
             },
             {
@@ -446,8 +392,8 @@
                "material":"FIREWORK_ROCKET",
                "weight":26,
                "amount":{
-                  "min":16,
-                  "max":32
+                  "min":1,
+                  "max":6
                }
             },
             {
@@ -456,7 +402,7 @@
                "weight":26,
                "amount":{
                   "min":1,
-                  "max":5
+                  "max":3
                }
             },
             {
@@ -464,8 +410,8 @@
                "material":"GLOWSTONE_DUST",
                "weight":26,
                "amount":{
-                  "min":16,
-                  "max":32
+                  "min":1,
+                  "max":6
                }
             },
             {
@@ -474,7 +420,7 @@
                "weight":26,
                "amount":{
                   "min":1,
-                  "max":5
+                  "max":3
                }
             },
             {
@@ -483,7 +429,7 @@
                "weight":26,
                "amount":{
                   "min":1,
-                  "max":5
+                  "max":3
                }
             },
             {
@@ -492,7 +438,7 @@
                "weight":26,
                "amount":{
                   "min":1,
-                  "max":6
+                  "max":3
                }
             },
             {
@@ -501,7 +447,7 @@
                "weight":26,
                "amount":{
                   "min":1,
-                  "max":6
+                  "max":3
                }
             },
             {
@@ -510,7 +456,7 @@
                "weight":26,
                "amount":{
                   "min":1,
-                  "max":5
+                  "max":3
                }
             },
             {
@@ -524,17 +470,8 @@
                "material":"LEAD",
                "weight":26,
                "amount":{
-                  "min":2,
-                  "max":8
-               }
-            },
-            {
-               "type":"item",
-               "material":"MYCELIUM",
-               "weight":26,
-               "amount":{
-                  "min":16,
-                  "max":32
+                  "min":1,
+                  "max":3
                }
             },
             {
@@ -545,18 +482,9 @@
             },
             {
                "type":"item",
-               "material":"NETHER_STAR",
-               "weight":26,
-               "amount":1
-            },
-            {
-               "type":"item",
                "material":"NETHERITE_INGOT",
                "weight":26,
-               "amount":{
-                  "min":1,
-                  "max":3
-               }
+               "amount":1
             },
             {
                "type":"item",
@@ -611,15 +539,6 @@
             },
             {
                "type":"item",
-               "material":"SCULK",
-               "weight":26,
-               "amount":{
-                  "min":8,
-                  "max":16
-               }
-            },
-            {
-               "type":"item",
                "material":"SEA_LANTERN",
                "weight":26,
                "amount":{
@@ -652,10 +571,7 @@
                "type":"item",
                "material":"TURTLE_EGG",
                "weight":26,
-               "amount":{
-                  "min":1,
-                  "max":6
-               }
+               "amount":1
             },
             {
                "type":"item",
@@ -669,7 +585,7 @@
                "weight":26,
                "amount":{
                   "min":1,
-                  "max":10
+                  "max":3
                }
             },
             {
@@ -677,8 +593,8 @@
                "material":"AMETHYST_BLOCK",
                "weight":18,
                "amount":{
-                  "min":8,
-                  "max":16
+                  "min":1,
+                  "max":6
                }
             },
             {
@@ -686,8 +602,8 @@
                "material":"AMETHYST_SHARD",
                "weight":18,
                "amount":{
-                  "min":8,
-                  "max":16
+                  "min":1,
+                  "max":6
                }
             },
             {
@@ -695,8 +611,8 @@
                "material":"BONE_BLOCK",
                "weight":18,
                "amount":{
-                  "min":8,
-                  "max":16
+                  "min":1,
+                  "max":6
                }
             },
             {
@@ -704,8 +620,8 @@
                "material":"BOOK",
                "weight":18,
                "amount":{
-                  "min":8,
-                  "max":16
+                  "min":1,
+                  "max":6
                }
             },
             {
@@ -713,8 +629,8 @@
                "material":"BROWN_MUSHROOM_BLOCK",
                "weight":18,
                "amount":{
-                  "min":8,
-                  "max":16
+                  "min":1,
+                  "max":6
                }
             },
             {
@@ -727,15 +643,15 @@
                "type":"item",
                "material":"COOKIE",
                "weight":18,
-               "amount":64
+               "amount":32
             },
             {
                "type":"item",
                "material":"CRIMSON_FUNGUS",
                "weight":18,
                "amount":{
-                  "min":8,
-                  "max":16
+                  "min":1,
+                  "max":6
                }
             },
             {
@@ -743,32 +659,23 @@
                "material":"DEEPSLATE_COPPER_ORE",
                "weight":18,
                "amount":{
-                  "min":8,
-                  "max":16
-               }
-            },
-            {
-               "type":"item",
-               "material":"END_STONE",
-               "weight":18,
-               "amount":{
-                  "min":8,
-                  "max":16
+                  "min":1,
+                  "max":6
                }
             },
             {
                "type":"item",
                "material":"ENDER_PEARL",
                "weight":18,
-               "amount":16
+               "amount":3
             },
             {
                "type":"item",
                "material":"GLASS",
                "weight":18,
                "amount":{
-                  "min":16,
-                  "max":32
+                  "min":6,
+                  "max":6
                }
             },
             {
@@ -776,8 +683,8 @@
                "material":"GLISTERING_MELON_SLICE",
                "weight":18,
                "amount":{
-                  "min":5,
-                  "max":10
+                  "min":1,
+                  "max":6
                }
             },
             {
@@ -785,8 +692,8 @@
                "material":"GLOW_INK_SAC",
                "weight":18,
                "amount":{
-                  "min":5,
-                  "max":10
+                  "min":1,
+                  "max":6
                }
             },
             {
@@ -794,8 +701,8 @@
                "material":"GLOW_LICHEN",
                "weight":18,
                "amount":{
-                  "min":5,
-                  "max":10
+                  "min":1,
+                  "max":6
                }
             },
             {
@@ -803,8 +710,8 @@
                "material":"GOLDEN_CARROT",
                "weight":18,
                "amount":{
-                  "min":5,
-                  "max":10
+                  "min":1,
+                  "max":6
                }
             },
             {
@@ -821,8 +728,8 @@
                "material":"HONEY_BOTTLE",
                "weight":18,
                "amount":{
-                  "min":5,
-                  "max":10
+                  "min":1,
+                  "max":6
                }
             },
             {
@@ -830,8 +737,8 @@
                "material":"ICE",
                "weight":18,
                "amount":{
-                  "min":16,
-                  "max":32
+                  "min":1,
+                  "max":6
                }
             },
             {
@@ -839,8 +746,8 @@
                "material":"LAPIS_LAZULI",
                "weight":18,
                "amount":{
-                  "min":16,
-                  "max":32
+                  "min":1,
+                  "max":6
                }
             },
             {
@@ -848,8 +755,8 @@
                "material":"LEATHER",
                "weight":18,
                "amount":{
-                  "min":8,
-                  "max":16
+                  "min":1,
+                  "max":6
                }
             },
             {
@@ -857,8 +764,8 @@
                "material":"MELON_SLICE",
                "weight":18,
                "amount":{
-                  "min":16,
-                  "max":32
+                  "min":1,
+                  "max":6
                }
             },
             {
@@ -877,21 +784,6 @@
                "amount":{
                   "min":16,
                   "max":32
-               }
-            },
-            {
-               "type":"item",
-               "material":"POWDER_SNOW_BUCKET",
-               "weight":18,
-               "amount":1
-            },
-            {
-               "type":"item",
-               "material":"PRISMARINE",
-               "weight":18,
-               "amount":{
-                  "min":8,
-                  "max":16
                }
             },
             {
@@ -920,15 +812,6 @@
             },
             {
                "type":"item",
-               "material":"PURPUR_BLOCK",
-               "weight":18,
-               "amount":{
-                  "min":8,
-                  "max":16
-               }
-            },
-            {
-               "type":"item",
                "material":"QUARTZ",
                "weight":18,
                "amount":{
@@ -948,7 +831,7 @@
                "weight":18,
                "amount":{
                   "min":1,
-                  "max":5
+                  "max":3
                }
             },
             {
@@ -980,15 +863,6 @@
             },
             {
                "type":"item",
-               "material":"SCULK_CATALYST",
-               "weight":18,
-               "amount":{
-                  "min":3,
-                  "max":5
-               }
-            },
-            {
-               "type":"item",
                "material":"SCUTE",
                "weight":18,
                "amount":{
@@ -1008,7 +882,7 @@
                "weight":18,
                "amount":{
                   "min":1,
-                  "max":3
+                  "max":2
                }
             },
             {
@@ -1016,8 +890,8 @@
                "material":"SLIME_BALL",
                "weight":18,
                "amount":{
-                  "min":8,
-                  "max":16
+                  "min":1,
+                  "max":6
                }
             },
             {
@@ -1025,8 +899,8 @@
                "material":"SPIDER_EYE",
                "weight":18,
                "amount":{
-                  "min":5,
-                  "max":10
+                  "min":1,
+                  "max":6
                }
             },
             {
@@ -1052,8 +926,8 @@
                "material":"VERDANT_FROGLIGHT",
                "weight":18,
                "amount":{
-                  "min":8,
-                  "max":16
+                  "min":1,
+                  "max":6
                }
             },
             {
@@ -1061,8 +935,8 @@
                "material":"WARPED_STEM",
                "weight":18,
                "amount":{
-                  "min":16,
-                  "max":32
+                  "min":1,
+                  "max":8
                }
             },
             {
@@ -1071,255 +945,15 @@
                "weight":18,
                "amount":{
                   "min":1,
-                  "max":64
+                  "max":6
                }
             },
             {
                "type":"item",
-               "material":"NETHERITE_HELMET",
-               "name":"<gradient:#cc0000:#ffffff>Bacon's Blast Helm</gradient>",
-               "lore":[
-                  "<red>Can't be bothered to watch out for Creepers? Be like Bacon and don't!"
-               ],
-               "weight":1,
-               "amount":1,
-               "enchantsamount":3,
-               "enchants":[
-                  {
-                     "name":"PROTECTION_EXPLOSIONS",
-                     "level":5
-                  },
-                  {
-                     "name":"DURABILITY",
-                     "level":3
-                  },
-                  {
-                     "name":"MENDING",
-                     "level":1
-                  }
-               ]
-            },
-            {
-               "type":"item",
-               "material":"NETHERITE_CHESTPLATE",
-               "name":"<gradient:#cc0000:#ffffff>Bacon's Asbestos Vest</gradient>",
-               "lore":[
-                  "<red>Tired of burning to death in lava? Be like Bacon and don't!"
-               ],
-               "weight":1,
-               "amount":1,
-               "enchantsamount":3,
-               "enchants":[
-                  {
-                     "name":"PROTECTION_FIRE",
-                     "level":5
-                  },
-                  {
-                     "name":"DURABILITY",
-                     "level":3
-                  },
-                  {
-                     "name":"MENDING",
-                     "level":1
-                  }
-               ]
-            },
-            {
-               "type":"item",
-               "material":"NETHERITE_LEGGINGS",
-               "name":"<gradient:#cc0000:#ffffff>Bacon's Khakis</gradient>",
-               "lore":[
-                  "<red>Sick of getting picked on by others? Yeah me too... <3 Bacon"
-               ],
-               "weight":1,
-               "amount":1,
-               "enchantsamount":4,
-               "enchants":[
-                  {
-                     "name":"PROTECTION_ENVIRONMENTAL",
-                     "level":4
-                  },
-                  {
-                     "name":"SWIFT_SNEAK",
-                     "level":3
-                  },
-                  {
-                     "name":"DURABILITY",
-                     "level":3
-                  },
-                  {
-                     "name":"MENDING",
-                     "level":1
-                  }
-               ]
-            },
-            {
-               "type":"item",
-               "material":"NETHERITE_BOOTS",
-               "name":"<gradient:#cc0000:#ffffff>Bacon's Utility Boots</gradient>",
-               "lore":[
-                  "<red>Walk anywhere or run... It's up to you with these bad boys!"
-               ],
-               "weight":1,
-               "amount":1,
-               "enchantsamount":5,
-               "enchants":[
-                  {
-                     "name":"SOUL_SPEED",
-                     "level":4
-                  },
-                  {
-                     "name":"DEPTH_STRIDER",
-                     "level":4
-                  },
-                  {
-                     "name":"PROTECTION_FALL",
-                     "level":4
-                  },
-                  {
-                     "name":"DURABILITY",
-                     "level":3
-                  },
-                  {
-                     "name":"MENDING",
-                     "level":1
-                  }
-               ]
-            },
-            {
-               "type":"item",
-               "material":"NETHERITE_HELMET",
-               "name":"<rainbow>Sudo's Quilled Cap</rainbow>",
-               "lore":[
-                  "<white>Hitting the owner is a really bad idea..."
-               ],
-               "weight":1,
-               "amount":1,
-               "enchantsamount":4,
-               "enchants":[
-                  {
-                     "name":"THORNS",
-                     "level":10
-                  },
-                  {
-                     "name":"DURABILITY",
-                     "level":3
-                  },
-                  {
-                     "name":"PROTECTION_ENVIRONMENTAL",
-                     "level":4
-                  },
-                  {
-                     "name":"MENDING",
-                     "level":1
-                  }
-               ]
-            },
-            {
-               "type":"item",
-               "material":"NETHERITE_CHESTPLATE",
-               "name":"<rainbow>Sudo's Thick Hide</rainbow>",
-               "lore":[
-                  "<white>It's fine if you don't like the new feature. I only spent 3 days making it from scratch."
-               ],
-               "weight":1,
-               "amount":1,
-               "enchantsamount":4,
-               "enchants":[
-                  {
-                     "name":"THORNS",
-                     "level":3
-                  },
-                  {
-                     "name":"DURABILITY",
-                     "level":3
-                  },
-                  {
-                     "name":"PROTECTION_ENVIRONMENTAL",
-                     "level":6
-                  },
-                  {
-                     "name":"MENDING",
-                     "level":1
-                  }
-               ]
-            },
-            {
-               "type":"item",
-               "material":"NETHERITE_LEGGINGS",
-               "name":"<rainbow>Sudo's Bug Free Pants</rainbow>",
-               "lore":[
-                  "<white>It's working as intended."
-               ],
-               "weight":1,
-               "amount":1,
-               "enchantsamount":5,
-               "enchants":[
-                  {
-                     "name":"THORNS",
-                     "level":4
-                  },
-                  {
-                     "name":"DURABILITY",
-                     "level":3
-                  },
-                  {
-                     "name":"PROTECTION_ENVIRONMENTAL",
-                     "level":5
-                  },
-                  {
-                     "name":"SWIFT_SNEAK",
-                     "level":4
-                  },
-                  {
-                     "name":"MENDING",
-                     "level":1
-                  }
-               ]
-            },
-            {
-               "type":"item",
-               "material":"NETHERITE_BOOTS",
-               "name":"<rainbow>Sudo's Freefall Boots</rainbow>",
-               "lore":[
-                  "<white>Fall damage is for players."
-               ],
-               "weight":1,
-               "amount":1,
-               "enchantsamount":5,
-               "enchants":[
-                  {
-                     "name":"THORNS",
-                     "level":3
-                  },
-                  {
-                     "name":"DURABILITY",
-                     "level":3
-                  },
-                  {
-                     "name":"PROTECTION_ENVIRONMENTAL",
-                     "level":4
-                  },
-                  {
-                     "name":"PROTECTION_FALL",
-                     "level":6
-                  },
-                  {
-                     "name":"MENDING",
-                     "level":1
-                  }
-               ]
-            },
-            {
-               "type":"item",
                "material":"DIAMOND_HELMET",
-               "name":"Perfect Helm",
-               "lore":[
-                  "The internet says these are the best enchants for a Helm."
-               ],
                "weight":1,
                "amount":1,
-               "enchantsamount":6,
+               "enchantsamount":1,
                "enchants":[
                   {
                      "name":"THORNS",
@@ -1350,13 +984,9 @@
             {
                "type":"item",
                "material":"DIAMOND_CHESTPLATE",
-               "name":"Perfect Chest",
-               "lore":[
-                  "The internet says these are the best enchants for a Chest."
-               ],
                "weight":1,
                "amount":1,
-               "enchantsamount":4,
+               "enchantsamount":1,
                "enchants":[
                   {
                      "name":"THORNS",
@@ -1379,13 +1009,9 @@
             {
                "type":"item",
                "material":"DIAMOND_LEGGINGS",
-               "name":"Perfect Legs",
-               "lore":[
-                  "The internet says these are the best enchants for a Legs."
-               ],
                "weight":1,
                "amount":1,
-               "enchantsamount":5,
+               "enchantsamount":1,
                "enchants":[
                   {
                      "name":"THORNS",
@@ -1412,13 +1038,9 @@
             {
                "type":"item",
                "material":"DIAMOND_BOOTS",
-               "name":"Perfect Boots",
-               "lore":[
-                  "The internet says these are the best enchants for Boots."
-               ],
                "weight":1,
                "amount":1,
-               "enchantsamount":5,
+               "enchantsamount":1,
                "enchants":[
                   {
                      "name":"THORNS",
@@ -1453,13 +1075,9 @@
             {
                "type":"item",
                "material":"BOW",
-               "name":"<dark_purple>Izzy's Eternal Bow</dark_purple>",
-               "lore":[
-                  "<color:#e7b8ff>A single arrow is all she ever carried around with her.</color>"
-               ],
                "weight":1,
                "amount":1,
-               "enchantsamount":3,
+               "enchantsamount":1,
                "enchants":[
                   {
                      "name":"DURABILITY",
@@ -1477,64 +1095,31 @@
             },
             {
                "type":"item",
-               "material":"NETHERITE_SWORD",
-               "name":"<rainbow>Vorpal Sword</rainbow>",
-               "lore":[
-                  "Don't cut yourself. It's sharp. "
-               ],
+               "material":"DIAMOND_SWORD",
                "weight":1,
                "amount":1,
-               "enchantsamount":2,
+               "enchantsamount":1,
                "enchants":[
                   {
                      "name":"DAMAGE_ALL",
-                     "level":6
+                     "level":5
                   },
                   {
                      "name":"LOOT_BONUS_MOBS",
-                     "level":4
+                     "level":3
                   }
                ]
             },
             {
                "type":"item",
-               "material":"WOODEN_AXE",
-               "name":"<red>Sudo's</red> <grey>Axe</grey>",
-               "lore":[
-                  "This is the only way to change the world."
-               ],
+               "material":"DIAMOND_HOE",
                "weight":1,
                "amount":1,
-               "enchantsamount":3,
-               "enchants":[
-                  {
-                     "name":"DURABILITY",
-                     "level":10
-                  },
-                  {
-                     "name":"DAMAGE_ALL",
-                     "level":7
-                  },
-                  {
-                     "name":"MENDING",
-                     "level":1
-                  }
-               ]
-            },
-            {
-               "type":"item",
-               "material":"NETHERITE_HOE",
-               "name":"<#ff87d9>Bacon's Hoe",
-               "lore":[
-                  "<green>Gotta make emeralds somehow.</green>"
-               ],
-               "weight":1,
-               "amount":1,
-               "enchantsamount":4,
+               "enchantsamount":1,
                "enchants":[
                   {
                      "name":"LOOT_BONUS_MOBS",
-                     "level":4
+                     "level":3
                   },
                   {
                      "name":"DURABILITY",
@@ -1552,18 +1137,14 @@
             },
             {
                "type":"item",
-               "material":"NETHERITE_PICKAXE",
-               "name":"<rainbow>Silky</rainbow>",
-               "lore":[
-                  "Blocks just as the maker intended."
-               ],
+               "material":"DIAMOND_PICKAXE",
                "weight":1,
                "amount":1,
-               "enchantsamount":3,
+               "enchantsamount":1,
                "enchants":[
                   {
                      "name":"DIG_SPEED",
-                     "level":6
+                     "level":5
                   },
                   {
                      "name":"SILK_TOUCH",
@@ -1577,14 +1158,10 @@
             },
             {
                "type":"item",
-               "material":"NETHERITE_PICKAXE",
-               "name":"<rainbow>Looty</rainbow>",
-               "lore":[
-                  "Better for getting emeralds than Bacon's Hoe."
-               ],
+               "material":"DIAMOND_PICKAXE",
                "weight":1,
                "amount":1,
-               "enchantsamount":3,
+               "enchantsamount":1,
                "enchants":[
                   {
                      "name":"DIG_SPEED",
@@ -1592,7 +1169,7 @@
                   },
                   {
                      "name":"LOOT_BONUS_BLOCKS",
-                     "level":4
+                     "level":3
                   },
                   {
                      "name":"MENDING",
@@ -1602,14 +1179,10 @@
             },
             {
                "type":"item",
-               "material":"NETHERITE_SHOVEL",
-               "name":"<white>Holy Shovel",
-               "lore":[
-                  "<green>Need holes? This is the tool.</green>"
-               ],
+               "material":"DIAMOND_SHOVEL",
                "weight":1,
                "amount":1,
-               "enchantsamount":4,
+               "enchantsamount":1,
                "enchants":[
                   {
                      "name":"SILK_TOUCH",
@@ -1632,13 +1205,9 @@
             {
                "type":"item",
                "material":"TRIDENT",
-               "name":"<Yellow>Steadfast Trident",
-               "lore":[
-                  "Everything else may betray you but this will always remain loyal."
-               ],
                "weight":1,
                "amount":1,
-               "enchantsamount":3,
+               "enchantsamount":1,
                "enchants":[
                   {
                      "name":"LOYALTY",
@@ -1656,22 +1225,10 @@
             },
             {
                "type":"item",
-               "material":"BEACON",
-               "weight":16,
-               "amount":1
-            },
-            {
-               "type":"item",
-               "material":"RECOVERY_COMPASS",
-               "weight":16,
-               "amount":1
-            },
-            {
-               "type":"item",
                "material":"ELYTRA",
                "weight":16,
                "amount":1,
-               "enchantsamount":2,
+               "enchantsamount":1,
                "enchants":[
                   {
                      "name":"DURABILITY",
