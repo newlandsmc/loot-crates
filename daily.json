@@ -102,37 +102,37 @@
         {
           "type": "item",
           "material": "APPLE",
-          "weight": 5,
+          "weight": 10,
           "amount": 3
         },
         {
           "type": "item",
           "material": "CARROT",
-          "weight": 5,
+          "weight": 10,
           "amount": 3
         },
         {
           "type": "item",
           "material": "POTATO",
-          "weight": 5,
+          "weight": 10,
           "amount": 3
         },
         {
           "type": "item",
           "material": "GLOW_BERRIES",
-          "weight": 5,
+          "weight": 10,
           "amount": 3
         },
         {
           "type": "item",
           "material": "SWEET_BERRIES",
-          "weight": 5,
+          "weight": 10,
           "amount": 3
         },
         {
           "type": "item",
           "material": "WHEAT",
-          "weight": 3,
+          "weight": 5,
           "amount": 3
         }
       ]
