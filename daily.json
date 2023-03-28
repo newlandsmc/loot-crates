@@ -135,12 +135,11 @@
                "weight":3,
                "amount":3
             }
-         }
-      ]
-   },
-   {
-      "rolls":2,
-      "entries":[
+         ]
+     },
+     {
+        "rolls":2,
+        "entries":[
             {
                "type":"item",
                "material":"STEAK",
