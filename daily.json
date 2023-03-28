@@ -1,396 +1,332 @@
 {
-   "pools":[
-      {
-         "rolls":3,
-         "entries":[
-            {
-               "type":"item",
-               "material":"ACACIA_LOG",
-               "weight":1,
-               "amount":{
-                  "min":1,
-                  "max":16
-               }
-            },
-            {
-               "type":"item",
-               "material":"ARROW",
-               "weight":1,
-               "amount":{
-                  "min":1,
-                  "max":16
-               }
-            },
-            {
-               "type":"item",
-               "material":"BEEF",
-               "weight":1,
-               "amount":{
-                  "min":1,
-                  "max":16
-               }
-            },
-            {
-               "type":"item",
-               "material":"BIRCH_LOG",
-               "weight":1,
-               "amount":{
-                  "min":1,
-                  "max":16
-               }
-            },
-            {
-               "type":"item",
-               "material":"BONE",
-               "weight":1,
-               "amount":{
-                  "min":1,
-                  "max":16
-               }
-            },
-            {
-               "type":"item",
-               "material":"BROWN_MUSHROOM",
-               "weight":1,
-               "amount":{
-                  "min":1,
-                  "max":16
-               }
-            },
-            {
-               "type":"item",
-               "material":"CARROT",
-               "weight":1,
-               "amount":{
-                  "min":1,
-                  "max":16
-               }
-            },
-            {
-               "type":"item",
-               "material":"CHICKEN",
-               "weight":1,
-               "amount":{
-                  "min":1,
-                  "max":16
-               }
-            },
-            {
-               "type":"item",
-               "material":"COAL",
-               "weight":1,
-               "amount":{
-                  "min":5,
-                  "max":10
-               }
-            },
-            {
-               "type":"item",
-               "material":"COBBLED_DEEPSLATE",
-               "weight":1,
-               "amount":{
-                  "min":1,
-                  "max":16
-               }
-            },
-            {
-               "type":"item",
-               "material":"COBBLESTONE",
-               "weight":1,
-               "amount":{
-                  "min":1,
-                  "max":16
-               }
-            },
-            {
-               "type":"item",
-               "material":"COD",
-               "weight":1,
-               "amount":{
-                  "min":1,
-                  "max":16
-               }
-            },
-            {
-               "type":"item",
-               "material":"COOKED_BEEF",
-               "weight":1,
-               "amount":{
-                  "min":1,
-                  "max":16
-               }
-            },
-            {
-               "type":"item",
-               "material":"DARK_OAK_LOG",
-               "weight":1,
-               "amount":{
-                  "min":1,
-                  "max":16
-               }
-            },
-            {
-               "type":"item",
-               "material":"DIRT",
-               "weight":1,
-               "amount":{
-                  "min":32,
-                  "max":64
-               }
-            },
-            {
-               "type":"item",
-               "material":"EGG",
-               "weight":1,
-               "amount":{
-                  "min":5,
-                  "max":10
-               }
-            },
-            {
-               "type":"item",
-               "material":"FEATHER",
-               "weight":1,
-               "amount":{
-                  "min":1,
-                  "max":16
-               }
-            },
-            {
-               "type":"item",
-               "material":"GRAVEL",
-               "weight":1,
-               "amount":{
-                  "min":1,
-                  "max":16
-               }
-            },
-            {
-               "type":"item",
-               "material":"JUNGLE_LOG",
-               "weight":1,
-               "amount":{
-                  "min":1,
-                  "max":16
-               }
-            },
-            {
-               "type":"item",
-               "material":"LILY_PAD",
-               "weight":1,
-               "amount":{
-                  "min":5,
-                  "max":10
-               }
-            },
-            {
-               "type":"item",
-               "material":"MELON",
-               "weight":1,
-               "amount":{
-                  "min":1,
-                  "max":16
-               }
-            },
-            {
-               "type":"item",
-               "material":"RAW_IRON",
-               "weight":1,
-               "amount":{
-                  "min":1,
-                  "max":5
-               }
-            },
-            {
-               "type":"item",
-               "material":"SAND",
-               "weight":1,
-               "amount":{
-                  "min":1,
-                  "max":16
-               }
-            },
-            {
-               "type":"item",
-               "material":"SPYGLASS",
-               "weight":1,
-               "amount":1
-            },
-            {
-               "type":"item",
-               "material":"STRING",
-               "weight":1,
-               "amount":{
-                  "min":5,
-                  "max":10
-               }
-            },
-			{
-               "type":"item",
-               "material":"AMETHYST_SHARD",
-               "weight":1,
-               "amount":{
-                  "min":1,
-                  "max":6
-               }
-            },
-            {
-               "type":"item",
-               "material":"BONE_BLOCK",
-               "weight":1,
-               "amount":{
-                  "min":1,
-                  "max":6
-               }
-            },
-            {
-               "type":"item",
-               "material":"CAKE",
-               "weight":1,
-               "amount":1
-            },
-            {
-               "type":"item",
-               "material":"COOKIE",
-               "weight":1,
-               "amount":16
-            },
-            {
-               "type":"item",
-               "material":"DEEPSLATE_COPPER_ORE",
-               "weight":1,
-               "amount":{
-                  "min":1,
-                  "max":6
-               }
-            },
-            {
-               "type":"item",
-               "material":"GLASS",
-               "weight":1,
-               "amount":{
-                  "min":1,
-                  "max":6
-               }
-            },
-            {
-               "type":"item",
-               "material":"HONEY_BOTTLE",
-               "weight":1,
-               "amount":{
-                  "min":1,
-                  "max":4
-               }
-            },
-            {
-               "type":"item",
-               "material":"LAPIS_LAZULI",
-               "weight":1,
-               "amount":{
-                  "min":1,
-                  "max":6
-               }
-            },
-            {
-               "type":"item",
-               "material":"LEATHER",
-               "weight":1,
-               "amount":{
-                  "min":1,
-                  "max":6
-               }
-            },
-            {
-               "type":"item",
-               "material":"POTATO",
-               "weight":1,
-               "amount":{
-                  "min":1,
-                  "max":16
-               }
-            },
-            {
-               "type":"item",
-               "material":"PUMPKIN",
-               "weight":1,
-               "amount":{
-                  "min":1,
-                  "max":6
-               }
-            },
-            {
-               "type":"item",
-               "material":"RAW_GOLD",
-               "weight":1,
-               "amount":{
-                  "min":1,
-                  "max":3
-               }
-            },
-			{
-               "type":"item",
-               "material":"DIAMOND",
-               "weight":1,
-               "amount":{
-                  "min":1,
-                  "max":3
-               }
-            },
-            {
-               "type":"item",
-               "material":"RED_MUSHROOM",
-               "weight":1,
-               "amount":{
-                  "min":1,
-                  "max":5
-               }
-            },
-            {
-               "type":"item",
-               "material":"REDSTONE",
-               "weight":1,
-               "amount":{
-                  "min":1,
-                  "max":6
-               }
-            },
-            {
-               "type":"item",
-               "material":"SLIME_BALL",
-               "weight":1,
-               "amount":{
-                  "min":1,
-                  "max":6
-               }
-            },
-            {
-               "type":"item",
-               "material":"SPIDER_EYE",
-               "weight":1,
-               "amount":{
-                  "min":5,
-                  "max":10
-               }
-            },
-            {
-               "type":"item",
-               "material":"SPRUCE_LOG",
-               "weight":1,
-               "amount":{
-                  "min":1,
-                  "max":6
-               }
-            },
-            {
-               "type":"item",
-               "material":"WHITE_WOOL",
-               "weight":1,
-               "amount":{
-                  "min":1,
-                  "max":6
-               }
-            }
-         ]
-      }
-   ]
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "material": "EXPERIENCE_BOTTLE",
+          "weight": 25,
+          "amount": 16
+        },
+        {
+          "type": "item",
+          "material": "OAK_SAPLING",
+          "weight": 1,
+          "amount": 1
+        },
+        {
+          "type": "item",
+          "material": "SPRUCE_SAPLING",
+          "weight": 1,
+          "amount": 1
+        },
+        {
+          "type": "item",
+          "material": "BIRCH_SAPLING",
+          "weight": 1,
+          "amount": 1
+        },
+        {
+          "type": "item",
+          "material": "JUNGLE_SAPLING",
+          "weight": 1,
+          "amount": 1
+        },
+        {
+          "type": "item",
+          "material": "ACACIA_SAPLING",
+          "weight": 1,
+          "amount": 1
+        },
+        {
+          "type": "item",
+          "material": "DARK_OAK_SAPLING",
+          "weight": 1,
+          "amount": 1
+        },
+        {
+          "type": "item",
+          "material": "MANGROVE_PROPAGULE",
+          "weight": 1,
+          "amount": 1
+        },
+        {
+          "type": "item",
+          "material": "BAMBOO",
+          "weight": 1,
+          "amount": 8
+        },
+        {
+          "type": "item",
+          "material": "SUGAR_CANE",
+          "weight": 1,
+          "amount": 8
+        },
+        {
+          "type": "item",
+          "material": "RED_MUSHROOM",
+          "weight": 1,
+          "amount": 8
+        },
+        {
+          "type": "item",
+          "material": "BROWN_MUSHROOM",
+          "weight": 1,
+          "amount": 8
+        },
+        {
+          "type": "item",
+          "material": "COCOA_BEANS",
+          "weight": 1,
+          "amount": 1
+        },
+        {
+          "type": "item",
+          "material": "PUMPKIN_SEEDS",
+          "weight": 1,
+          "amount": 3
+        },
+        {
+          "type": "item",
+          "material": "MELON_SEEDS",
+          "weight": 1,
+          "amount": 3
+        },
+        {
+          "type": "item",
+          "material": "BEETROOT_SEEDS",
+          "weight": 1,
+          "amount": 3
+        },
+        {
+          "type": "item",
+          "material": "APPLE",
+          "weight": 5,
+          "amount": 3
+        },
+        {
+          "type": "item",
+          "material": "CARROT",
+          "weight": 5,
+          "amount": 3
+        },
+        {
+          "type": "item",
+          "material": "POTATO",
+          "weight": 5,
+          "amount": 3
+        },
+        {
+          "type": "item",
+          "material": "GLOW_BERRIES",
+          "weight": 5,
+          "amount": 3
+        },
+        {
+          "type": "item",
+          "material": "SWEET_BERRIES",
+          "weight": 5,
+          "amount": 3
+        },
+        {
+          "type": "item",
+          "material": "WHEAT",
+          "weight": 3,
+          "amount": 3
+        }
+      ]
+    },
+    {
+      "rolls": 2,
+      "entries": [
+        {
+          "type": "item",
+          "material": "COOKED_BEEF",
+          "weight": 5,
+          "amount": 5
+        },
+        {
+          "type": "item",
+          "material": "COOKED_PORKCHOP",
+          "weight": 5,
+          "amount": 5
+        },
+        {
+          "type": "item",
+          "material": "COOKED_MUTTON",
+          "weight": 5,
+          "amount": 5
+        },
+        {
+          "type": "item",
+          "material": "COOKED_CHICKEN",
+          "weight": 5,
+          "amount": 5
+        },
+        {
+          "type": "item",
+          "material": "COOKED_RABBIT",
+          "weight": 5,
+          "amount": 5
+        },
+        {
+          "type": "item",
+          "material": "COOKED_COD",
+          "weight": 5,
+          "amount": 5
+        },
+        {
+          "type": "item",
+          "material": "COOKED_SALMON",
+          "weight": 5,
+          "amount": 5
+        },
+        {
+          "type": "item",
+          "material": "COOKIE",
+          "weight": 1,
+          "amount": 5
+        },
+        {
+          "type": "item",
+          "material": "CAKE",
+          "weight": 1,
+          "amount": 1
+        },
+        {
+          "type": "item",
+          "material": "COAL",
+          "weight": 4,
+          "amount": 16
+        },
+        {
+          "type": "item",
+          "material": "EMERALD",
+          "weight": 2,
+          "amount": 4
+        },
+        {
+          "type": "item",
+          "material": "LAPIS_LAZULI",
+          "weight": 2,
+          "amount": 4
+        },
+        {
+          "type": "item",
+          "material": "DIAMOND",
+          "weight": 4,
+          "amount": 4
+        },
+        {
+          "type": "item",
+          "material": "IRON_INGOT",
+          "weight": 4,
+          "amount": 4
+        },
+        {
+          "type": "item",
+          "material": "GOLD_INGOT",
+          "weight": 4,
+          "amount": 4
+        },
+        {
+          "type": "item",
+          "material": "FLINT",
+          "weight": 2,
+          "amount": 4
+        },
+        {
+          "type": "item",
+          "material": "REDSTONE",
+          "weight": 3,
+          "amount": 4
+        },
+        {
+          "type": "item",
+          "material": "PRISMARINE_SHARD",
+          "weight": 2,
+          "amount": 4
+        },
+        {
+          "type": "item",
+          "material": "AMETHYST_SHARD",
+          "weight": 1,
+          "amount": 4
+        },
+        {
+          "type": "item",
+          "material": "LEATHER",
+          "weight": 1,
+          "amount": 4
+        },
+        {
+          "type": "item",
+          "material": "SLIME_BALL",
+          "weight": 1,
+          "amount": 4
+        },
+        {
+          "type": "item",
+          "material": "GUNPOWDER",
+          "weight": 1,
+          "amount": 4
+        },
+        {
+          "type": "item",
+          "material": "BONE",
+          "weight": 1,
+          "amount": 4
+        },
+        {
+          "type": "item",
+          "material": "FEATHER",
+          "weight": 1,
+          "amount": 2
+        },
+        {
+          "type": "item",
+          "material": "INK_SAC",
+          "weight": 1,
+          "amount": 4
+        },
+        {
+          "type": "item",
+          "material": "STRING",
+          "weight": 1,
+          "amount": 4
+        },
+        {
+          "type": "item",
+          "material": "ENDER_PEARL",
+          "weight": 1,
+          "amount": 2
+        },
+        {
+          "type": "item",
+          "material": "NAUTILUS_SHELL",
+          "weight": 1,
+          "amount": 2
+        },
+        {
+          "type": "item",
+          "material": "SADDLE",
+          "weight": 1,
+          "amount": 1
+        },
+        {
+          "type": "item",
+          "material": "SPONGE",
+          "weight": 1,
+          "amount": 1
+        },
+        {
+          "type": "item",
+          "material": "BOOK",
+          "weight": 1,
+          "amount": 5
+        }
+      ]
+    }
+  ]
 }
