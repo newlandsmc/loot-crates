@@ -11,7 +11,7 @@
         },
         {
           "type": "item",
-          "material": "STEAK",
+          "material": "COOKED_BEEF",
           "weight": 3,
           "amount": 5
         },
@@ -101,7 +101,7 @@
         },
         {
           "type": "item",
-          "material": "PRISMARINE_SHARDS",
+          "material": "PRISMARINE_SHARD",
           "weight": 3,
           "amount": 8
         },
@@ -119,7 +119,7 @@
         },
         {
           "type": "item",
-          "material": "SLIMEBALL",
+          "material": "SLIME_BALL",
           "weight": 3,
           "amount": 16
         },
@@ -155,7 +155,7 @@
         },
         {
           "type": "item",
-          "material": "ENDERPEARL",
+          "material": "ENDER_PEARL",
           "weight": 3,
           "amount": 8
         },
