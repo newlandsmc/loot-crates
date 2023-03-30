@@ -204,7 +204,7 @@
           "type": "item",
           "material": "EMERALD",
           "weight": 2,
-          "amount": 4
+          "amount": 3
         },
         {
           "type": "item",
@@ -239,7 +239,7 @@
         {
           "type": "item",
           "material": "REDSTONE",
-          "weight": 3,
+          "weight": 2,
           "amount": 4
         },
         {
