@@ -51,9 +51,38 @@
             {
                "type":"item",
                "material":"DIAMOND_PICKAXE",
-               "weight":16,
+               "weight":8,
                "amount":1,
                "enchantsamount":2,
+               "enchants":[
+                  {
+                     "name":"DURABILITY",
+                     "level":3,
+                     "weight":1
+                  },
+                  {
+                     "name":"DIG_SPEED",
+                     "level":5,
+                     "weight":1
+                  },
+                  {
+                     "name":"SILK_TOUCH",
+                     "level":1,
+                     "weight":1
+                  },
+                  {
+                     "name":"MENDING",
+                     "level":1,
+                     "weight":1
+                  }
+               ]
+            },
+            {
+               "type":"item",
+               "material":"DIAMOND_PICKAXE",
+               "weight":8,
+               "amount":1,
+               "enchantsamount":3,
                "enchants":[
                   {
                      "name":"DURABILITY",
@@ -68,11 +97,6 @@
                   {
                      "name":"DIG_SPEED",
                      "level":5,
-                     "weight":1
-                  },
-                  {
-                     "name":"SILK_TOUCH",
-                     "level":1,
                      "weight":1
                   },
                   {
